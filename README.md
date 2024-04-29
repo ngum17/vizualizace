@@ -1,7 +1,6 @@
 # Kritické porovnání vlastností open source nástrojů pro vizualizaci dat
 
-Tento repositář má za cíl porovnat různé open source nástroje pro vizualizaci dat v třech populárních programovacích jazycích: Python, MATLAB a R. Každý jazyk má svoji vlastní složku obsahující Jupyter notebooky s vizualizacemi, které jsou dostupné v dané knihovně.
-
+Tento repositář byl vytvořen v rámci praktické části bakalářské práce s cílem demonstrovat rozsah podpory vizualizací v jednotlivých nástrojích podle Tabulky 3 uvedené v teoretické části. Byly vybrány tři populární programovací jazyky: Python, MATLAB a R. Každý jazyk disponuje vlastním adresářem obsahujícím Jupyter notebooky s vizualizacemi, které jsou specifické pro daný nástroj.
 ## Python
 - **[bokeh.ipynb](https://nbviewer.org/github/ngum17/vizualizace/blob/main/Python/bokeh.ipynb)**
 - **[matplotlib.ipynb](Python/matplotlib.ipynb)**
@@ -17,7 +16,7 @@ Tento repositář má za cíl porovnat různé open source nástroje pro vizuali
 - **[leaflet.ipynb](R/leaflet.ipynb)**
 
 ##
-Sekce [kategorie](./kategorie) obsahuje adresáře s jednotlivými kategoriemi vizualizací, v nichž se nacházejí Jupyter notebooky s konkrétními vizualizacemi, jež byly vybrány ke komparaci nástrojů v praktické části práce.
+Sekce [kategorie](./kategorie) obsahuje adresáře s jednotlivými kategoriemi vizualizací, v nichž se nacházejí Jupyter notebooky s jednotlivými vizualizacemi, jež byly vybrány ke komparaci nástrojů v praktické části práce.
 - **[geoprostorové](kategorie/geoprostorove)**
 - **[časové](kategorie/casove)**
 - **[relační](kategorie/relacni)**
@@ -25,7 +24,7 @@ Sekce [kategorie](./kategorie) obsahuje adresáře s jednotlivými kategoriemi v
 - **[kategorické](kategorie/kategoricke)**
 - **[hierarchické](kategorie/hierarchicke)** 
 
-Každý notebook obsahuje příklady vizualizací, kódu a komentáře.
+Každý notebook obsahuje příklady vizualizací, kódu a komentáře v angličtině.
 
 **Poznámka:** Jelikož GitHub není schopen přímo zobrazovat interaktivní vizualizace z knihoven jako Plotly a Bokeh, odkazy na notebooky s těmito vizualizacemi jsou přesměrovány na platformu [nbviewer.org](https://nbviewer.org/), která umožňuje správné zobrazení interaktivních vizualizací.
 
