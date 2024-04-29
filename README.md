@@ -16,7 +16,14 @@ Tento repositář má za cíl porovnat různé open source nástroje pro vizuali
 - **[lattice.ipynb](R/lattice.ipynb)**
 - **[leaflet.ipynb](R/leaflet.ipynb)**
 
-Záložka [Kategorie](./kategorie) obsahuje Jupyter notebooky s vizualizacemi, které byly vybrány ke komparaci nástrojů v praktické části.  
+##
+Sekce [kategorie](./kategorie) obsahuje adresáře s jednotlivými kategoriemi vizualizací, v nichž se nacházejí Jupyter notebooky s konkrétními vizualizacemi, jež byly vybrány ke komparaci nástrojů v praktické části práce.
+- **[geoprostorové](kategorie/geoprostorove)**
+- **[časové](kategorie/casove)**
+- **[relační](kategorie/relacni)**
+- **[rozdělení](kategorie/rozdeleni)**
+- **[kategorické](kategorie/kategoricke)**
+- **[hierarchické](kategorie/hierarchicke)** 
 
 Každý notebook obsahuje příklady vizualizací, kódu a komentáře.
 
